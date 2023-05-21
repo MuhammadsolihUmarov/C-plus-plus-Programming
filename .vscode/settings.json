@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "ostream": "cpp",
+    "vector": "cpp",
+    "iostream": "cpp",
+    "xstring": "cpp",
+    "cwchar": "cpp",
+    "exception": "cpp",
+    "initializer_list": "cpp",
+    "iosfwd": "cpp",
+    "istream": "cpp",
+    "stdexcept": "cpp",
+    "streambuf": "cpp",
+    "type_traits": "cpp"
+  },
+  "cmake.configureOnOpen": true
+}
